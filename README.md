@@ -1,2 +1,13 @@
-# Share-the-Fav
-Discover and share your favorite books, music, products, and more across various categories. Curate personalized recommendations based on your experience and research, and explore what others love, all in one place!
+# React + Vite
+
+Steps:
+- install redux
+```javascript
+    $ npm install @reduxjs/toolkit react-redux
+ ```
+
+- try to implement all things on React learnt throughout the course
+  - Authentication 
+  - Router
+  - Redux 
+  - Testing 
